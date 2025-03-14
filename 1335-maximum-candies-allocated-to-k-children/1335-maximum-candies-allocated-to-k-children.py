@@ -29,7 +29,8 @@ class Solution:
 
             if is_valid(mid):
                 left = mid + 1
-                ans = max(ans, mid)
+                if mid > ans:
+                    ans = mid
             else:
                 right = mid - 1
         return ans
