@@ -36,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
+## Tree
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
