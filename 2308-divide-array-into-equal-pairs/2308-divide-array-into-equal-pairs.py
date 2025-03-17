@@ -7,8 +7,8 @@ class Solution:
         
         print(dic)
         
-        for i in dic:
-            if dic[i] % 2 != 0:
+        for i in dic.values():
+            if i % 2 != 0:
                 return False 
         
         return True
