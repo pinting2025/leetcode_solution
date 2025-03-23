@@ -106,9 +106,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1236-n-th-tribonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1236-n-th-tribonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pinting2025/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pinting2025/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
