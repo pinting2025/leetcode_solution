@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pinting2025/leetcode_solution/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pinting2025/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/pinting2025/leetcode_solution/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pinting2025/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pinting2025/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/pinting2025/leetcode_solution/tree/master/2262-solving-questions-with-brainpower) |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pinting2025/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0040-combination-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [1657-find-the-winner-of-an-array-game](https://github.com/pinting2025/leetcode_solution/tree/master/1657-find-the-winner-of-an-array-game) |
 <!---LeetCode Topics End-->
