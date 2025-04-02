@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pinting2025/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/pinting2025/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0768-partition-labels](https://github.com/pinting2025/leetcode_solution/tree/master/0768-partition-labels) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pinting2025/leetcode_solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pinting2025/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pinting2025/leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pinting2025/leetcode_solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 ## Tree
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pinting2025/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/pinting2025/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/pinting2025/leetcode_solution/tree/master/0768-partition-labels) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pinting2025/leetcode_solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pinting2025/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3412-permutation-difference-between-two-strings](https://github.com/pinting2025/leetcode_solution/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sorting
