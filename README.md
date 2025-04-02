@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pinting2025/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/pinting2025/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/pinting2025/leetcode_solution/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/pinting2025/leetcode_solution/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0967-minimum-falling-path-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pinting2025/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0100-same-tree) |
+| [0322-coin-change](https://github.com/pinting2025/leetcode_solution/tree/master/0322-coin-change) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pinting2025/leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Tree
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/pinting2025/leetcode_solution/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/pinting2025/leetcode_solution/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/pinting2025/leetcode_solution/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/pinting2025/leetcode_solution/tree/master/0343-integer-break) |
 | [0747-min-cost-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/pinting2025/leetcode_solution/tree/master/0806-domino-and-tromino-tiling) |
