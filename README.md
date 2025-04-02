@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pinting2025/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/pinting2025/leetcode_solution/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0967-minimum-falling-path-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pinting2025/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/pinting2025/leetcode_solution/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pinting2025/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/pinting2025/leetcode_solution/tree/master/0343-integer-break) |
 | [0747-min-cost-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/pinting2025/leetcode_solution/tree/master/0806-domino-and-tromino-tiling) |
+| [0967-minimum-falling-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1236-n-th-tribonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pinting2025/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/pinting2025/leetcode_solution/tree/master/2262-solving-questions-with-brainpower) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0967-minimum-falling-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0967-minimum-falling-path-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pinting2025/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pinting2025/leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
