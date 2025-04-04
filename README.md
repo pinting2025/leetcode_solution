@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pinting2025/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/pinting2025/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/pinting2025/leetcode_solution/tree/master/0768-partition-labels) |
+| [1250-longest-common-subsequence](https://github.com/pinting2025/leetcode_solution/tree/master/1250-longest-common-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pinting2025/leetcode_solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pinting2025/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/pinting2025/leetcode_solution/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/pinting2025/leetcode_solution/tree/master/1250-longest-common-subsequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pinting2025/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/pinting2025/leetcode_solution/tree/master/2262-solving-questions-with-brainpower) |
 ## Shortest Path
