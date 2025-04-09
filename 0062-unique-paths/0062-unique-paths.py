@@ -1,5 +1,24 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
+        # top-down
+        matrix = [[0 for i in range(n)] for j in range(m)]
+        
+        def dp(r,c):
+            if r < 0 or c < 0 or r >= m or c >= n:
+                return 0
+            
+            if matrix[r][c] != 0:
+                return matrix[r][c]
+
+            if r == 0 or c == 0:
+                return 1
+
+            matrix[r][c] = dp(r-1, c) + dp(r, c-1)
+
+            return matrix[r][c]
+        
+        return dp(m-1, n-1)
+
         # bottom-up
         matrix = [[0 for i in range(n)] for j in range(m)]
 
