@@ -1,8 +1,22 @@
 class Solution:
     def maxProfit(self, prices: List[int], fee: int) -> int:
+        # bottom-up
+        n = len(prices)
+        if n <= 1:
+            return 0
+        
+        buy = -float('inf')
+        sell = 0
+
+        for i in range(len(prices)):
+            sell = max(sell, buy + prices[i] - fee)
+            buy = max(buy, sell - prices[i])
+        
+        return sell
+
+        # top-down
         memo = {}
 
-        @lru_cache
         def dp(i, flag):
             if (i, flag) in memo:
                 return memo[(i, flag)]
