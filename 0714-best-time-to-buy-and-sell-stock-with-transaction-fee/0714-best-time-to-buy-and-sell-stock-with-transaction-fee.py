@@ -2,6 +2,7 @@ class Solution:
     def maxProfit(self, prices: List[int], fee: int) -> int:
         memo = {}
 
+        @lru_cache
         def dp(i, flag):
             if (i, flag) in memo:
                 return memo[(i, flag)]
