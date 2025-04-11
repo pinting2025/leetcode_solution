@@ -1,5 +1,16 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
+        # bottom-up
+        buy = float('-inf')
+        sell = 0
+
+        for i in range(len(prices)):
+            buy = max(buy, sell - prices[i])
+            sell = max(sell, buy + prices[i])
+
+        return sell
+
+
         # top-down
         memo = {}
 
