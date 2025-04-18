@@ -1,29 +1,41 @@
 class Solution:
     def countAndSay(self, n: int) -> str:
         memo = {}
-        def compression(k):
-            # Base Case and Cache Checking
-            if k == 1:
+
+        def dp(n):
+            if n == 1:
                 return '1'
-            if k in memo: 
-                return memo[k]
             
-            # Strign Compression
+            if n in memo:
+                return memo[n]
+            
+            arr = dp(n-1)
+            count = 1
+            prev = arr[0]
+
             stack = []
-            lis = compression(k - 1)
-            curr, prev = 1, lis[0]
-            for element in lis[1:]:
-                if element == prev:
-                    curr += 1
+            for i in arr[1:]:
+                if i == prev:
+                    count += 1
                 else:
-                    stack.append(str(curr))
+                    stack.append(str(count))
                     stack.append(prev)
-                    curr, prev = 1, element
-                
-            # Adding the final element
-            stack.append(str(curr))
+                    count = 1
+                    prev = i
+
+            stack.append(str(count))
             stack.append(prev)
-            final = ''.join(stack) 
-            memo[k] = final
-            return final
-        return compression(n)
+
+            res = ''.join(stack)
+            memo[n] = res
+
+            return res
+        
+        return dp(n)
+
+                
+
+            
+
+            
+
