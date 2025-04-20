@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pinting2025/leetcode_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0747-min-cost-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/pinting2025/leetcode_solution/tree/master/0797-rabbits-in-forest) |
 | [0967-minimum-falling-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0967-minimum-falling-path-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pinting2025/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/pinting2025/leetcode_solution/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pinting2025/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/pinting2025/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0768-partition-labels](https://github.com/pinting2025/leetcode_solution/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/pinting2025/leetcode_solution/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pinting2025/leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pinting2025/leetcode_solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pinting2025/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pinting2025/leetcode_solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/pinting2025/leetcode_solution/tree/master/0062-unique-paths) |
 | [0343-integer-break](https://github.com/pinting2025/leetcode_solution/tree/master/0343-integer-break) |
+| [0797-rabbits-in-forest](https://github.com/pinting2025/leetcode_solution/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1236-n-th-tribonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pinting2025/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pinting2025/leetcode_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/pinting2025/leetcode_solution/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/pinting2025/leetcode_solution/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/pinting2025/leetcode_solution/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pinting2025/leetcode_solution/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
