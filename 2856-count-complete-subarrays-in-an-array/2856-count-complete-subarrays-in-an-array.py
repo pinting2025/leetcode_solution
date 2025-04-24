@@ -1,17 +1,18 @@
 class Solution:
     def countCompleteSubarrays(self, nums: List[int]) -> int:
-        target = len(set(nums))
-        cur = set()
+        n, left = len(nums), 0
+        count, k = Counter(), len(set(nums))
         res = 0
-        
-        for i in range(len(nums)):
-            cur = set()
 
-            for r in range(i, len(nums)):
-                cur.add(nums[r])
-                if len(cur) == target:
-                    res += 1
-
+        for right in range(n):
+            count[nums[right]] += 1
+            while len(count) == k:
+                pop = nums[left]
+                res += (n - right)
+                count[pop] -= 1
+                if count[pop] == 0:
+                    del count[pop] 
+                left += 1
         return res
 
             
