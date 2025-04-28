@@ -1,39 +1,18 @@
 class Solution:
-    def maximumTripletValue(self, nums: List[int]) -> int:   
-        left = 0
-        right = 1
-        cal_1 = {}
+    def maximumTripletValue(self, nums: List[int]) -> int:
+        max_diff = 0
+        max_i = 0
+        max_value = 0
 
-        while left < right and right < len(nums):
-            cal_1[right] = cal_1.get(right, nums[left] - nums[right])
+        for i in range(len(nums)):
+            max_value = max(max_value, max_diff * nums[i])
 
-            if nums[left] < nums[right]:
-                left = right
+            max_diff = max(max_diff, max_i - nums[i])
 
-            right += 1
+            max_i = max(max_i, nums[i])
         
-        cal_2 = [0] * len(nums)
-        cal_2[-1] = nums[-1]
+        return max_value
 
-        for i in range(len(nums) - 2, -1, -1):
-            if nums[i] > cal_2[i+1]:
-                cal_2[i] = nums[i]
-            else:
-                cal_2[i] = cal_2[i+1]
-
-        res = 0
-        for idx in cal_1:
-            val = cal_1[idx]
-            if val <= 0:
-                continue
-
-            if idx < len(nums) - 1:
-                cur = val * cal_2[idx+1]
-                if cur > res:
-                    res = cur
-        
-        return res
-        
             
 
         
