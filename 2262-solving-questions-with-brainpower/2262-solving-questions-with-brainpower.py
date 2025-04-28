@@ -1,5 +1,22 @@
 class Solution:
     def mostPoints(self, questions: List[List[int]]) -> int:
+        # bottom-up
+        dp = [0] * (len(questions) + 1)
+
+        for i in range(len(questions)-1, -1, -1):
+            p, nextq = questions[i]
+
+            skip = dp[i+1]
+
+            if i + nextq + 1 < len(questions):
+                take = dp[i + nextq + 1] + p
+            else:
+                take = p
+            
+            dp[i] = max(take, skip)
+        
+        return dp[0]
+
         # top-down
         memo = {}
 
