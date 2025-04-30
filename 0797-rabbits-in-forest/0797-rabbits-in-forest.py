@@ -1,18 +1,20 @@
 class Solution:
     def numRabbits(self, answers: List[int]) -> int:
+        answers = Counter(answers)
+        
         res = 0
-        count = Counter()
-        for i in answers:
-            if i == 0:
-                res += 1
-                continue
+        for c, a in answers.items():
+            if c == 0:
+                res += a
 
-            if i not in count:
-                count[i] = i
-                res += (i + 1)
+            elif c+1 >= a:
+                res += (c + 1)
+
             else:
-                count[i] -= 1
-                if count[i] == 0:
-                    del count[i]
-
+                r = a % (c+1)
+                if r != 0:
+                    res += a + (c+1) - r
+                else:
+                    res += a
         return res
+
