@@ -5,11 +5,11 @@ class Solution:
 
         def backtrack(idx):
             nonlocal res
-            temp = 0
+            cur = 0
             for i in track:
-                temp ^= i
-
-            res += temp
+                cur ^= i
+            
+            res += cur
 
             if idx >= len(nums):
                 return
@@ -18,11 +18,8 @@ class Solution:
                 track.append(nums[i])
                 backtrack(i+1)
                 track.pop()
-        
+
         backtrack(0)
 
         return res
-        
 
-        
-        
