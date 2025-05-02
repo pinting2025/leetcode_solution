@@ -5,16 +5,18 @@ class Solution:
         memo[0] = 0
         memo[1] = 1
         memo[2] = 1
-        def dp(idx):
-            if idx in memo:
-                return memo[idx]
+
+        def dp(i):
+            if i in memo:
+                return memo[i]
             
-            if idx > n or idx < 0:
+            if i > n:
                 return 0
             
-            memo[idx] = dp(idx-1) + dp(idx-2) + dp(idx-3)
+            memo[i] = dp(i-1) + dp(i-2) + dp(i-3)
 
-            return memo[idx]
+            return memo[i]
         
         return dp(n)
-        
+
+
