@@ -1,5 +1,18 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
+        # bottom-up 
+        dp = [0] * 4
+        dp[1] = 1
+        dp[2] = 1
+
+        for i in range(3, n+1):
+            dp[3] = dp[0] + dp[1] + dp[2]
+            dp[0] = dp[1]
+            dp[1] = dp[2]
+            dp[2] = dp[3]
+        
+        return dp[3] if n >= 4 else dp[n]
+
         # top-down
         memo = {}
         memo[0] = 0
