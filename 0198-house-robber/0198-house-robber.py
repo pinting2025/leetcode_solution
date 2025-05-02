@@ -1,5 +1,7 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
+        # bottom-up
+
         # top-down
         memo = {}
         def dp(i):
@@ -9,10 +11,10 @@ class Solution:
             if i >= len(nums):
                 return 0
             
-            take = nums[i] + dp(i+2)
+            rob = dp(i+2) + nums[i]
             skip = dp(i+1)
 
-            memo[i] = max(take, skip)
+            memo[i] = max(rob, skip)
 
             return memo[i]
         
