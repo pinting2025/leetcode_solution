@@ -1,17 +1,6 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        # bottom-up
-        buy = float('-inf')
-        sell = 0
-
-        for i in range(len(prices)):
-            buy = max(buy, sell - prices[i])
-            sell = max(sell, buy + prices[i])
-
-        return sell
-
-
-        # top-down
+        # top-down dp
         memo = {}
 
         def dp(i, flag):
@@ -21,23 +10,19 @@ class Solution:
             if i >= len(prices):
                 return 0
             
-            if flag == 1:
-                sell = dp(i+1, 0) + prices[i]
-                keep = dp(i+1, 1)
-                memo[(i, flag)] = max(sell, keep)
+            if flag == True:
+                sell = dp(i+1, flag = False) + prices[i]
+                stay = dp(i+1, flag = True)
+                memo[(i, flag)] = max(sell, stay)
+            
             else:
-                buy = dp(i+1, 1) - prices[i]
-                keep = dp(i+1, 0)
-                memo[(i, flag)] = max(buy, keep)
+                buy = dp(i+1, flag = True) - prices[i]
+                stay = dp(i+1, flag = False)
+                memo[(i, flag)] = max(buy, stay)
             
             return memo[(i, flag)]
-        
-        return dp(0,0)
-
-
-        
-
-
+    
+        return dp(0, flag = False)
+    
             
-
 
