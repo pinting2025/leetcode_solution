@@ -1,6 +1,16 @@
 class Solution:
     def fib(self, n: int) -> int:
-        # 
+        # bottom-up 
+        dp = [0] * 3
+        dp[1] = 1
+
+        for i in range(n-1):
+            dp[2] = dp[0] + dp[1]
+            dp[0] = dp[1]
+            dp[1] = dp[2]
+        
+        return dp[2] if n >= 2 else dp[n]
+
         # top-down
         memo = {}
         memo[0] = 0
