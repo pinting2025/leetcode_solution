@@ -1,5 +1,19 @@
 class Solution:
     def minFallingPathSum(self, matrix: List[List[int]]) -> int:
+        # bottom-up
+        dp = matrix[-1]
+        
+        for r in range(len(matrix)-2, -1, -1):
+            cur = [0] * len(matrix[r])
+            for i in range(len(matrix[r])):
+                left = dp[i-1] if i-1 >= 0 else float('inf')
+                right = dp[i+1] if i+1 < len(matrix[r]) else float('inf')
+                middle = dp[i]
+                cur[i] = matrix[r][i] + min(left, right, middle)
+            dp = cur 
+        return min(dp)
+
+        # top-down
         memo = {}
 
         def dp(row, idx):
