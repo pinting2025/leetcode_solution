@@ -1,37 +1,26 @@
 class Solution:
     def minFallingPathSum(self, matrix: List[List[int]]) -> int:
-        len_r = len(matrix)
-        len_c = len(matrix[0])
         memo = {}
-        def dp(r, c):
-            key = (r, c)
-            # look for past result
-            if key in memo:
-                return memo[key]
+
+        def dp(row, idx):
+            if (row, idx) in memo:
+                return memo[(row, idx)]
             
-            # base case
-            if r >= len_r:
+            if row == len(matrix):
                 return 0
             
-            if c >= len_c or c < 0:
-                return 999999999
+            if idx < 0 or idx >= len(matrix):
+                return float('inf')
+            
+            left = dp(row+1, idx-1)
+            right = dp(row+1, idx+1)
 
-            left = dp(r+1, c-1) + matrix[r][c]
-            down = dp(r+1, c) + matrix[r][c]
-            right = dp(r+1, c+1) + matrix[r][c]
+            memo[(row, idx)] = matrix[row][idx] + min(left, right, dp(row+1, idx))
 
-            res = min(left, down, right)
-            memo[key] = res
-
-            return res
+            return memo[(row, idx)]
         
         res = float('inf')
-        for i in range(len_r):
+        for i in range(len(matrix[0])):
             res = min(res, dp(0, i))
-        
+
         return res
-        
-
-            
-
-        
