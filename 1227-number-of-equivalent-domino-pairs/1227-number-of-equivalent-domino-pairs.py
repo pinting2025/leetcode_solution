@@ -1,18 +1,18 @@
 class Solution:
     def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
-        res = []
+        dic = Counter()
+        res = 0
+
         for p in dominoes:
-            res.append(sorted(p))
+            p = tuple(sorted(p))
+            if p in dic:
+                res += dic[p]
+                dic[p] += 1
+            else:
+                dic[p] = 1
+
+        return res
+            
         
-        res = sorted(res)
-        cur = res[0]
-        count = 0
-        for p1 in range(len(res)):
-            for p2 in range(p1+1, len(res)):
-                if res[p1] == res[p2]:
-                    count += 1
-                else:
-                    break
-                
-        return count
+
 
