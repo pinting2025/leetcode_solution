@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pinting2025/leetcode_solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/pinting2025/leetcode_solution/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pinting2025/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/pinting2025/leetcode_solution/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pinting2025/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pinting2025/leetcode_solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pinting2025/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/pinting2025/leetcode_solution/tree/master/1657-find-the-winner-of-an-array-game) |
+| [2048-build-array-from-permutation](https://github.com/pinting2025/leetcode_solution/tree/master/2048-build-array-from-permutation) |
 ## Recursion
 |  |
 | ------- |
