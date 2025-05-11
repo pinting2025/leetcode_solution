@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pinting2025/leetcode_solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/pinting2025/leetcode_solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pinting2025/leetcode_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/pinting2025/leetcode_solution/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0747-min-cost-climbing-stairs) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pinting2025/leetcode_solution/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/pinting2025/leetcode_solution/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pinting2025/leetcode_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/pinting2025/leetcode_solution/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0747-min-cost-climbing-stairs) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pinting2025/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pinting2025/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
