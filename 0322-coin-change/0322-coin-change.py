@@ -1,31 +1,23 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         coins = sorted(coins)
-        memo = {}
+        memo = {} # remain
+
         def dp(remain):
-            if remain in memo:
-                return memo[remain]
-            
             if remain == 0:
                 return 0
             
-            i = 0
-            temp = float('inf')
-            while i < len(coins) and coins[i] <= remain:
-                temp = min(temp, dp(remain - coins[i])+1)
-                i += 1
+            if remain in memo:
+                return memo[remain]
             
+            temp = float('inf')
+            for coin in coins:
+                if remain - coin < 0:
+                    break
+                temp = min(temp, dp(remain-coin) + 1)
+
             memo[remain] = temp
 
-            return temp
+            return memo[remain]
         
-        if dp(amount) == float('inf'):
-            return -1
-            
-        return dp(amount)
-            
-
-            
-            
-
-        
+        return dp(amount) if dp(amount) != float('inf') else -1
