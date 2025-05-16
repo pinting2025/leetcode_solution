@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pinting2025/leetcode_solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/pinting2025/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/pinting2025/leetcode_solution/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pinting2025/leetcode_solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/pinting2025/leetcode_solution/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/pinting2025/leetcode_solution/tree/master/0221-maximal-square) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pinting2025/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pinting2025/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/pinting2025/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/pinting2025/leetcode_solution/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/pinting2025/leetcode_solution/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/pinting2025/leetcode_solution/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/pinting2025/leetcode_solution/tree/master/0797-rabbits-in-forest) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/pinting2025/leetcode_solution/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/pinting2025/leetcode_solution/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/pinting2025/leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/pinting2025/leetcode_solution/tree/master/0139-word-break) |
 | [0768-partition-labels](https://github.com/pinting2025/leetcode_solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/pinting2025/leetcode_solution/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/pinting2025/leetcode_solution/tree/master/1250-longest-common-subsequence) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pinting2025/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pinting2025/leetcode_solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/pinting2025/leetcode_solution/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pinting2025/leetcode_solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/pinting2025/leetcode_solution/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/pinting2025/leetcode_solution/tree/master/0221-maximal-square) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/pinting2025/leetcode_solution/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
@@ -428,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pinting2025/leetcode_solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pinting2025/leetcode_solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/pinting2025/leetcode_solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
