@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pinting2025/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/pinting2025/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pinting2025/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pinting2025/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/0120-triangle) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pinting2025/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pinting2025/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/pinting2025/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/pinting2025/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/pinting2025/leetcode_solution/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/pinting2025/leetcode_solution/tree/master/0740-delete-and-earn) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/pinting2025/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/pinting2025/leetcode_solution/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0967-minimum-falling-path-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pinting2025/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
