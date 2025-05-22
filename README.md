@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pinting2025/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/pinting2025/leetcode_solution/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [2413-smallest-number-in-infinite-set](https://github.com/pinting2025/leetcode_solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/pinting2025/leetcode_solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pinting2025/leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/pinting2025/leetcode_solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pinting2025/leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/pinting2025/leetcode_solution/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/pinting2025/leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/2280-count-good-triplets-in-an-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/pinting2025/leetcode_solution/tree/master/2413-smallest-number-in-infinite-set) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -466,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/pinting2025/leetcode_solution/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
