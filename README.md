@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/pinting2025/leetcode_solution/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pinting2025/leetcode_solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/pinting2025/leetcode_solution/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/pinting2025/leetcode_solution/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/pinting2025/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pinting2025/leetcode_solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pinting2025/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pinting2025/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pinting2025/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pinting2025/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pinting2025/leetcode_solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/pinting2025/leetcode_solution/tree/master/2215-finding-3-digit-even-numbers) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pinting2025/leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/pinting2025/leetcode_solution/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/pinting2025/leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -458,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/pinting2025/leetcode_solution/tree/master/0139-word-break) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
