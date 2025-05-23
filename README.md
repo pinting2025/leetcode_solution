@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pinting2025/leetcode_solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pinting2025/leetcode_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/pinting2025/leetcode_solution/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3430-count-days-without-meetings](https://github.com/pinting2025/leetcode_solution/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pinting2025/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pinting2025/leetcode_solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pinting2025/leetcode_solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pinting2025/leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pinting2025/leetcode_solution/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/pinting2025/leetcode_solution/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/pinting2025/leetcode_solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/pinting2025/leetcode_solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/pinting2025/leetcode_solution/tree/master/3637-count-number-of-balanced-permutations) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0967-minimum-falling-path-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pinting2025/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pinting2025/leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/pinting2025/leetcode_solution/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/pinting2025/leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pinting2025/leetcode_solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
