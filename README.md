@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/pinting2025/leetcode_solution/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/pinting2025/leetcode_solution/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/pinting2025/leetcode_solution/tree/master/0322-coin-change) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pinting2025/leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pinting2025/leetcode_solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/pinting2025/leetcode_solution/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/pinting2025/leetcode_solution/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/pinting2025/leetcode_solution/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pinting2025/leetcode_solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/pinting2025/leetcode_solution/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/pinting2025/leetcode_solution/tree/master/0343-integer-break) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pinting2025/leetcode_solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/pinting2025/leetcode_solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/pinting2025/leetcode_solution/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/pinting2025/leetcode_solution/tree/master/0343-integer-break) |
 | [0797-rabbits-in-forest](https://github.com/pinting2025/leetcode_solution/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1013-fibonacci-number) |
