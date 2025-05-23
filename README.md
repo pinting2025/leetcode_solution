@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/pinting2025/leetcode_solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pinting2025/leetcode_solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/3321-type-of-triangle) |
+| [3324-split-the-array](https://github.com/pinting2025/leetcode_solution/tree/master/3324-split-the-array) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pinting2025/leetcode_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/pinting2025/leetcode_solution/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3430-count-days-without-meetings](https://github.com/pinting2025/leetcode_solution/tree/master/3430-count-days-without-meetings) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pinting2025/leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/pinting2025/leetcode_solution/tree/master/2915-count-of-interesting-subarrays) |
+| [3324-split-the-array](https://github.com/pinting2025/leetcode_solution/tree/master/3324-split-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/pinting2025/leetcode_solution/tree/master/3412-permutation-difference-between-two-strings) |
 | [3548-find-the-count-of-good-integers](https://github.com/pinting2025/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pinting2025/leetcode_solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pinting2025/leetcode_solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/pinting2025/leetcode_solution/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [3324-split-the-array](https://github.com/pinting2025/leetcode_solution/tree/master/3324-split-the-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/pinting2025/leetcode_solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/pinting2025/leetcode_solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Tree
