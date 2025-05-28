@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/pinting2025/leetcode_solution/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pinting2025/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/pinting2025/leetcode_solution/tree/master/2478-longest-nice-subarray) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/pinting2025/leetcode_solution/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pinting2025/leetcode_solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/pinting2025/leetcode_solution/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/pinting2025/leetcode_solution/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/pinting2025/leetcode_solution/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0494-target-sum) |
