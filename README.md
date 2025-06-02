@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/pinting2025/leetcode_solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/pinting2025/leetcode_solution/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/pinting2025/leetcode_solution/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/pinting2025/leetcode_solution/tree/master/0343-integer-break) |
 | [0797-rabbits-in-forest](https://github.com/pinting2025/leetcode_solution/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1013-fibonacci-number) |
@@ -534,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/pinting2025/leetcode_solution/tree/master/2413-smallest-number-in-infinite-set) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/pinting2025/leetcode_solution/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
