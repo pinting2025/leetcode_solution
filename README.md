@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pinting2025/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/pinting2025/leetcode_solution/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/pinting2025/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pinting2025/leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/pinting2025/leetcode_solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pinting2025/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/pinting2025/leetcode_solution/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/pinting2025/leetcode_solution/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/pinting2025/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pinting2025/leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pinting2025/leetcode_solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pinting2025/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/pinting2025/leetcode_solution/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/pinting2025/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pinting2025/leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pinting2025/leetcode_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Two Pointers
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/pinting2025/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/pinting2025/leetcode_solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/pinting2025/leetcode_solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pinting2025/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
