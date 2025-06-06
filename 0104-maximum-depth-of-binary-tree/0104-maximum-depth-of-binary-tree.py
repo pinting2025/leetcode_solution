@@ -8,7 +8,24 @@ class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-            
+        
+        # bfs
+        queue = deque([root])
+        level = 0
+
+        while queue:
+            level += 1
+            length = len(queue)
+
+            for _ in range(length):
+                current = queue.popleft()
+                if current.left:
+                    queue.append(current.left)
+                if current.right:
+                    queue.append(current.right)
+        
+        return level
+
         # dfs
         res = 0
         def dfs(node, depth):
