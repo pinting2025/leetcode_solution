@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/pinting2025/leetcode_solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/pinting2025/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pinting2025/leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/pinting2025/leetcode_solution/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/pinting2025/leetcode_solution/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pinting2025/leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/pinting2025/leetcode_solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/pinting2025/leetcode_solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/pinting2025/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pinting2025/leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -608,4 +611,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/pinting2025/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0783-search-in-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
