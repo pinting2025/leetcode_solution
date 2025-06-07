@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/pinting2025/leetcode_solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/pinting2025/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/pinting2025/leetcode_solution/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pinting2025/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0572-subtree-of-another-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/pinting2025/leetcode_solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/pinting2025/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
