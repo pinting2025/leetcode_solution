@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pinting2025/leetcode_solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0518-coin-change-ii) |
+| [0695-max-area-of-island](https://github.com/pinting2025/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pinting2025/leetcode_solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/pinting2025/leetcode_solution/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/pinting2025/leetcode_solution/tree/master/0740-delete-and-earn) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pinting2025/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/pinting2025/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pinting2025/leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/pinting2025/leetcode_solution/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/pinting2025/leetcode_solution/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/pinting2025/leetcode_solution/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/pinting2025/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/pinting2025/leetcode_solution/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/pinting2025/leetcode_solution/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pinting2025/leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pinting2025/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/pinting2025/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pinting2025/leetcode_solution/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/pinting2025/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/pinting2025/leetcode_solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pinting2025/leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pinting2025/leetcode_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pinting2025/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/pinting2025/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/pinting2025/leetcode_solution/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/pinting2025/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/pinting2025/leetcode_solution/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/pinting2025/leetcode_solution/tree/master/2038-nearest-exit-from-entrance-in-maze) |
