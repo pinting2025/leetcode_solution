@@ -1,22 +1,35 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        def bfs(r, c):
-            if r < 0 or c < 0 or r >= len(grid) or c >= len(grid[0]) or grid[r][c] == '0':
-                return 
-
-            else:
-                grid[r][c] = '0'
-                bfs(r+1, c)
-                bfs(r, c+1)
-                bfs(r-1, c)
-                bfs(r, c-1)
-
+        # check if the current cell is land, if yes, explore by bfs
+        queue = deque() # (row, col)
+        visited = set()
         res = 0
-        for r in range(len(grid)):
-            for c in range(len(grid[0])):
-                if grid[r][c] == '1':
-                    res += 1
-                    bfs(r, c)
+
+        def bfs(i, j):
+            visited.add((i, j))
+            if i < 0 or i >= len(grid) or j < 0 or j >= len(grid[0]) or grid[i][j] != '1':
+                return 
+            queue.append((i, j))
+            while queue:
+                current = queue.popleft()
+                if (i-1, j) not in visited:
+                    bfs(i-1, j)
+                if (i+1, j) not in visited:
+                    bfs(i+1, j)
+                if (i, j-1) not in visited:
+                    bfs(i, j-1)
+                if (i, j+1) not in visited:
+                    bfs(i, j+1)
+        
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                if grid[i][j] == '1':
+                    if (i, j) not in visited:
+                        visited.add((i, j))
+                        bfs(i, j)
+                        res += 1
         
         return res
+       
 
+                    
