@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/pinting2025/leetcode_solution/tree/master/0139-word-break) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/pinting2025/leetcode_solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Quickselect
 |  |
 | ------- |
