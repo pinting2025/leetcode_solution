@@ -4,12 +4,9 @@ class Solution:
         lower = nums[0]
         res = 0
 
-        for i in range(len(nums)):
-            print(nums[i], lower)
-            if nums[i] - lower <= k:
-                continue
-            else:
-                lower = nums[i]
+        for n in nums:
+            if n - lower > k:
+                lower = n
                 res += 1
             
         return res + 1
