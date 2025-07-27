@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pinting2025/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/pinting2025/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pinting2025/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/pinting2025/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/pinting2025/leetcode_solution/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/pinting2025/leetcode_solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/pinting2025/leetcode_solution/tree/master/0091-decode-ways) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pinting2025/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/pinting2025/leetcode_solution/tree/master/0739-daily-temperatures) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pinting2025/leetcode_solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pinting2025/leetcode_solution/tree/master/3001-apply-operations-to-maximize-score) |
