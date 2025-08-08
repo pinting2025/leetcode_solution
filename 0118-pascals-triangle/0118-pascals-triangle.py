@@ -21,10 +21,12 @@ class Solution:
 
             return temp
         
+        dp(numRows)
+        
         res = []
 
-        for i in range(1, numRows+1):
-            res.append(dp(i))
+        for i in range(1, len(memo)+1):
+            res.append(memo[i])
 
         return res
             
