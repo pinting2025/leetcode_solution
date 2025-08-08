@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pinting2025/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pinting2025/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pinting2025/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pinting2025/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/pinting2025/leetcode_solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/pinting2025/leetcode_solution/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pinting2025/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
