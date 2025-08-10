@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pinting2025/leetcode_solution/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/pinting2025/leetcode_solution/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pinting2025/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pinting2025/leetcode_solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pinting2025/leetcode_solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/pinting2025/leetcode_solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pinting2025/leetcode_solution/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/pinting2025/leetcode_solution/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/pinting2025/leetcode_solution/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/pinting2025/leetcode_solution/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/pinting2025/leetcode_solution/tree/master/0343-integer-break) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pinting2025/leetcode_solution/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/pinting2025/leetcode_solution/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/pinting2025/leetcode_solution/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pinting2025/leetcode_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
