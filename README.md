@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/pinting2025/leetcode_solution/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/pinting2025/leetcode_solution/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/pinting2025/leetcode_solution/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/pinting2025/leetcode_solution/tree/master/0900-reordered-power-of-2) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pinting2025/leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pinting2025/leetcode_solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/pinting2025/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/pinting2025/leetcode_solution/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pinting2025/leetcode_solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/pinting2025/leetcode_solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pinting2025/leetcode_solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/pinting2025/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/pinting2025/leetcode_solution/tree/master/0900-reordered-power-of-2) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pinting2025/leetcode_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pinting2025/leetcode_solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pinting2025/leetcode_solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/pinting2025/leetcode_solution/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/pinting2025/leetcode_solution/tree/master/0343-integer-break) |
 | [0797-rabbits-in-forest](https://github.com/pinting2025/leetcode_solution/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/pinting2025/leetcode_solution/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pinting2025/leetcode_solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/pinting2025/leetcode_solution/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pinting2025/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pinting2025/leetcode_solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/pinting2025/leetcode_solution/tree/master/2215-finding-3-digit-even-numbers) |
