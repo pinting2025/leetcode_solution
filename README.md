@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pinting2025/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/pinting2025/leetcode_solution/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/pinting2025/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0064-minimum-path-sum) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pinting2025/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/pinting2025/leetcode_solution/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pinting2025/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
