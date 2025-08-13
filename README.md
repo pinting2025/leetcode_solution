@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pinting2025/leetcode_solution/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/pinting2025/leetcode_solution/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/pinting2025/leetcode_solution/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/pinting2025/leetcode_solution/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/pinting2025/leetcode_solution/tree/master/0343-integer-break) |
 | [0797-rabbits-in-forest](https://github.com/pinting2025/leetcode_solution/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/pinting2025/leetcode_solution/tree/master/0900-reordered-power-of-2) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/pinting2025/leetcode_solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/pinting2025/leetcode_solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/pinting2025/leetcode_solution/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/pinting2025/leetcode_solution/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/pinting2025/leetcode_solution/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pinting2025/leetcode_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
