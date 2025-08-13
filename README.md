@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pinting2025/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pinting2025/leetcode_solution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/pinting2025/leetcode_solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/pinting2025/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/0120-triangle) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pinting2025/leetcode_solution/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/pinting2025/leetcode_solution/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/pinting2025/leetcode_solution/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pinting2025/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pinting2025/leetcode_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/pinting2025/leetcode_solution/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/pinting2025/leetcode_solution/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pinting2025/leetcode_solution/tree/master/1993-sum-of-all-subset-xor-totals) |
