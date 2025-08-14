@@ -1,24 +1,44 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        if not digits:
+        if digits == "":
             return []
-        nums = '23456789'
-        letters = ['abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz']
-        dic = {nums[i] : letters[i] for i in range(8)}
-    
-        track = []
-        res = []
-        def backtrack(layer):
-            nonlocal track
-            if layer == len(digits):
-                res.append("".join(track))
-                return
             
-            for i in dic[digits[layer]]:
-                track.append(i)
-                backtrack(layer+1)
-                track.pop()
-    
-        backtrack(0)
-        return res
+        dic = {
+            "2": ["a", "b", "c"],
+            "3": ["d", "e", "f"],
+            "4": ["g", "h", "i"],
+            "5": ["j", "k", "l"],
+            "6": ["m", "n", "o"],
+            "7": ["p", "q", "r", "s"],
+            "8": ["t", "u", "v"],
+            "9": ["w", "x", "y", "z"],
+        }
 
+        res = []
+
+        def backtrack(start, track):
+            if len(track) == len(digits):
+                res.append("".join(track))
+                return 
+            
+            for idx in range(start, len(digits)):
+                for l in dic[str(digits[idx])]:
+                    track.append(l)
+                    backtrack(idx+1, track)
+                    track.pop()
+            
+            return 
+        
+        backtrack(0, [])
+
+        return res 
+                
+                
+
+
+
+
+
+
+        
+        
