@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/pinting2025/leetcode_solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/pinting2025/leetcode_solution/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pinting2025/leetcode_solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pinting2025/leetcode_solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pinting2025/leetcode_solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/pinting2025/leetcode_solution/tree/master/3324-split-the-array) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pinting2025/leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pinting2025/leetcode_solution/tree/master/3001-apply-operations-to-maximize-score) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pinting2025/leetcode_solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pinting2025/leetcode_solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/pinting2025/leetcode_solution/tree/master/3430-count-days-without-meetings) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-distribute-candies-among-children-i](https://github.com/pinting2025/leetcode_solution/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pinting2025/leetcode_solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pinting2025/leetcode_solution/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pinting2025/leetcode_solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/pinting2025/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pinting2025/leetcode_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/pinting2025/leetcode_solution/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/pinting2025/leetcode_solution/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pinting2025/leetcode_solution/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pinting2025/leetcode_solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/pinting2025/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pinting2025/leetcode_solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Divide and Conquer
@@ -729,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/pinting2025/leetcode_solution/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pinting2025/leetcode_solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
