@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pinting2025/leetcode_solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/pinting2025/leetcode_solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pinting2025/leetcode_solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pinting2025/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Graph
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/pinting2025/leetcode_solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pinting2025/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/pinting2025/leetcode_solution/tree/master/2262-solving-questions-with-brainpower) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/pinting2025/leetcode_solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/pinting2025/leetcode_solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/pinting2025/leetcode_solution/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pinting2025/leetcode_solution/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/pinting2025/leetcode_solution/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2048-build-array-from-permutation](https://github.com/pinting2025/leetcode_solution/tree/master/2048-build-array-from-permutation) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/pinting2025/leetcode_solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/pinting2025/leetcode_solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pinting2025/leetcode_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
