@@ -5,7 +5,7 @@ class Solution:
             count = 0
             left, right = 0, len(arr)-1
 
-            while left <= right:
+            while left < right:
                 if arr[left] != arr[right]:
                     count += 1
                 left += 1
@@ -17,10 +17,7 @@ class Solution:
         for row in grid:
             row_count += check_palindromic(row)
 
-        new_grid = [[i for i in range(len(grid))] for j in range(len(grid[0]))]
-        for i in range(len(new_grid)):
-            for j in range(len(new_grid[0])):
-                new_grid[i][j] = grid[j][i]
+        new_grid = [list(col) for col in zip(*grid)]
         
         col_count = 0
         for col in new_grid:
