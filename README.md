@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pinting2025/leetcode_solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/pinting2025/leetcode_solution/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/pinting2025/leetcode_solution/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/pinting2025/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0695-max-area-of-island](https://github.com/pinting2025/leetcode_solution/tree/master/0695-max-area-of-island) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pinting2025/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/pinting2025/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/pinting2025/leetcode_solution/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/pinting2025/leetcode_solution/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/pinting2025/leetcode_solution/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/pinting2025/leetcode_solution/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/pinting2025/leetcode_solution/tree/master/1036-rotting-oranges) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/pinting2025/leetcode_solution/tree/master/0498-diagonal-traverse) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/pinting2025/leetcode_solution/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2048-build-array-from-permutation](https://github.com/pinting2025/leetcode_solution/tree/master/2048-build-array-from-permutation) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pinting2025/leetcode_solution/tree/master/2408-number-of-people-aware-of-a-secret) |
