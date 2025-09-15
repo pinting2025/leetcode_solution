@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pinting2025/leetcode_solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pinting2025/leetcode_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/pinting2025/leetcode_solution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pinting2025/leetcode_solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/pinting2025/leetcode_solution/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pinting2025/leetcode_solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/pinting2025/leetcode_solution/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/pinting2025/leetcode_solution/tree/master/2413-smallest-number-in-infinite-set) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/pinting2025/leetcode_solution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/pinting2025/leetcode_solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/pinting2025/leetcode_solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/pinting2025/leetcode_solution/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/pinting2025/leetcode_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/pinting2025/leetcode_solution/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/pinting2025/leetcode_solution/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3019-furthest-point-from-origin](https://github.com/pinting2025/leetcode_solution/tree/master/3019-furthest-point-from-origin) |
 | [3324-split-the-array](https://github.com/pinting2025/leetcode_solution/tree/master/3324-split-the-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/pinting2025/leetcode_solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
