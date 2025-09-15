@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/pinting2025/leetcode_solution/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pinting2025/leetcode_solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/pinting2025/leetcode_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/pinting2025/leetcode_solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pinting2025/leetcode_solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1500-count-largest-group](https://github.com/pinting2025/leetcode_solution/tree/master/1500-count-largest-group) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pinting2025/leetcode_solution/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/pinting2025/leetcode_solution/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/pinting2025/leetcode_solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/pinting2025/leetcode_solution/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/pinting2025/leetcode_solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/pinting2025/leetcode_solution/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pinting2025/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/pinting2025/leetcode_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
