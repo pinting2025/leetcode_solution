@@ -6,22 +6,44 @@
 #         self.right = right
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        # either use count variable to count kth smallest node we are on or triverse through all nodes and store them in a list
-        res = []
+        # 1. traverse through all nodes and store them in a list
+        # res = []
+
+        # def inorder(node):
+        #     if not node:
+        #         return 
+            
+        #     inorder(node.left)
+        #     res.append(node.val)
+        #     inorder(node.right)
+        
+        #     return 
+
+        # inorder(root)
+
+        # return res[k-1]
+
+        # 2. use count variable to count kth smallest node we are on 
+        count = 0
+        res = 0
 
         def inorder(node):
+            nonlocal count 
+            nonlocal res
             if not node:
                 return 
             
             inorder(node.left)
-            res.append(node.val)
+            count += 1
+            if count == k:
+                res = node.val
+            
             inorder(node.right)
         
-            return 
+            return
 
         inorder(root)
-
-        return res[k-1]
+        return res
 
         
         
