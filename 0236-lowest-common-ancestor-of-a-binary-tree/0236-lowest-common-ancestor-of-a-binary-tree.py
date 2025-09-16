@@ -7,22 +7,23 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        # check if they are in differnet subtree
-        def dfs(node):
+        res = None
+
+        def is_node(node):
+            nonlocal res
             if not node:
                 return 0
-            
-            if node == p or node == q:
-                return node
-            
-            left = dfs(node.left)
-            right = dfs(node.right)
 
-            if left and right:
-                return node
-            
-            elif left or right:
-                return left if left else right
-        
-        return dfs(root)
+            left = is_node(node.left)
+            right = is_node(node.right)
 
+            cur = 1 if (node == p or node == q) else 0
+
+            if left + right + cur >= 2:
+                res = node
+            
+            return 1 if (left or right or cur) else 0
+
+        is_node(root)
+
+        return res
