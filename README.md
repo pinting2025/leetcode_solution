@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/pinting2025/leetcode_solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pinting2025/leetcode_solution/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pinting2025/leetcode_solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3797-design-spreadsheet](https://github.com/pinting2025/leetcode_solution/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/pinting2025/leetcode_solution/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pinting2025/leetcode_solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/pinting2025/leetcode_solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/pinting2025/leetcode_solution/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pinting2025/leetcode_solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pinting2025/leetcode_solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/pinting2025/leetcode_solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/pinting2025/leetcode_solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/pinting2025/leetcode_solution/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pinting2025/leetcode_solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/pinting2025/leetcode_solution/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/pinting2025/leetcode_solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pinting2025/leetcode_solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3797-design-spreadsheet](https://github.com/pinting2025/leetcode_solution/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -781,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/pinting2025/leetcode_solution/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/pinting2025/leetcode_solution/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/pinting2025/leetcode_solution/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/pinting2025/leetcode_solution/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
 |  |
 | ------- |
