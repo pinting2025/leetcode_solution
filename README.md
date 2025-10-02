@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pinting2025/leetcode_solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pinting2025/leetcode_solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/pinting2025/leetcode_solution/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/pinting2025/leetcode_solution/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/pinting2025/leetcode_solution/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/pinting2025/leetcode_solution/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pinting2025/leetcode_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/pinting2025/leetcode_solution/tree/master/2048-build-array-from-permutation) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pinting2025/leetcode_solution/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/pinting2025/leetcode_solution/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3336-water-bottles-ii](https://github.com/pinting2025/leetcode_solution/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/pinting2025/leetcode_solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
